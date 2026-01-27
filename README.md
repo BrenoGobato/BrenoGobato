@@ -5,6 +5,7 @@
 ---
 
 ## 🚀 About me
+- Computer Science in UNIFESP.
 - Solution Architecture intern in Itau Unibanco
 - Software Engineering student with a strong interest in backend and fullstack development  
 - Focused on Java, Spring Boot and Angular  
@@ -15,8 +16,18 @@
 ## 🛠 Tech Stack
 **Backend:** Java, Spring Boot, Python  
 **Frontend:** Angular, HTML, CSS, TypeScript  
-**Databases:** MySQL, PostgreSQL  
-**Tools:** Git, GitHub, Docker, Kafka (basic)
+**Data and Messaging:** MySQL, PostgreSQL, H2 Kafka (basic)
+**Testing:** JUnit and Mockito (basic), REST Client (Insomnia)
+**DevOps & Tools:** Git, Docker, Maven/Gradle
+**Concepts:** Layers Architecture, MVC, Clean Code
+
+---
+
+## 🏅 CERTIFICATIONS AND COURSES
+- Oracle Cloud Infrastructure Foundation
+- Oracle Cloud Infrastructure AI
+- Java and Python (Udemy)
+- Solutions Architecture Foundation (Itaú Unibanco)
 
 ---
 
