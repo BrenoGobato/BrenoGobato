@@ -5,6 +5,7 @@
 ---
 
 ## 🚀 About me
+- Solution Architecture intern in Itau Unibanco
 - Software Engineering student with a strong interest in backend and fullstack development  
 - Focused on Java, Spring Boot and Angular  
 - Currently improving my English and preparing for international experiences  
