@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Breno Gobato
 
 💻 Software Engineering student | Aspiring Software Engineer  
-📍 Brazil | Open to international opportunities  
 
 ---
 
